@@ -1,0 +1,29 @@
+Iniciando Test
+<------------------------------>
+Test Case: enteros/Fixture
+Test Name: t1/0
+Test Name: t1/1
+Fallo por: Value of: s->checkPort(GetParam())
+  Actual: false
+Expected: true
+Linea de error: 85
+Test Name: t1/2
+Test Name: t1/3
+Test Name: t1/4
+Test Name: t1/5
+Elapsed Time Case: 16399 ms
+Test Case: enteros2/Fixture
+Test Name: t1/0
+Test Name: t1/1
+Test Name: t1/2
+Fallo por: Value of: s->checkPort(GetParam())
+  Actual: false
+Expected: true
+Linea de error: 85
+Test Name: t1/3
+Test Name: t1/4
+Test Name: t1/5
+Elapsed Time Case: 376485 ms
+Tests Correctos: 10
+Tests Fallidos: 2
+Tiempo de ejecucion: 392884 ms

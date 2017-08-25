@@ -1,0 +1,9 @@
+22/tcp   open          ssh
+80/tcp   open          http
+443/tcp  open          https
+631/tcp  open          ipp
+3306/tcp open          mysql
+68/udp   open|filtered dhcpc
+123/udp  open          ntp
+631/udp  open|filtered ipp
+5353/udp open|filtered zeroconf
