@@ -24,6 +24,9 @@ end
 #contar el número de elementos que tiene un <select>
 puts browser.select_list(:id => "usage").options.count
 
+#acceder utilizando index
+#browser.select_list(:id => "usage").options(:index => )
+
 #selecciona la tercera opción de un <select>
 opciones = browser.select_list(:id => "usage").options
 cont = 0
