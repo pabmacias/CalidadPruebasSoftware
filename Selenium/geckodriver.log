@@ -1,0 +1,634 @@
+1507034800277	geckodriver	INFO	geckodriver 0.19.0
+1507034800285	geckodriver	INFO	Listening on 127.0.0.1:33491
+1507034801414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cFnjO8vlYQs1"
+1507034802341	Marionette	INFO	Enabled via --marionette
+1507034803942	Marionette	INFO	Listening on port 43259
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507034804034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507034804069	Marionette	DEBUG	loaded listener.js
+1507034804091	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507034804409	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507034804409	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507034804794	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507034806246	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507034840734	geckodriver	INFO	geckodriver 0.19.0
+1507034840737	geckodriver	INFO	Listening on 127.0.0.1:35717
+1507034841849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xVsvauzYG2oY"
+1507034842377	Marionette	INFO	Enabled via --marionette
+1507034843571	Marionette	INFO	Listening on port 40027
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507034843675	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507034843720	Marionette	DEBUG	loaded listener.js
+1507034843769	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507034843847	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507034843848	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507034843994	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507034845039	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507034921271	geckodriver	INFO	geckodriver 0.19.0
+1507034921275	geckodriver	INFO	Listening on 127.0.0.1:49597
+1507034922383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QBMJtVlae6wm"
+1507034922918	Marionette	INFO	Enabled via --marionette
+1507034924283	Marionette	INFO	Listening on port 44831
+1507034924296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507034924333	Marionette	DEBUG	loaded listener.js
+1507034924353	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507034924746	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507034924747	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507034925117	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507034926572	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507034931109	geckodriver	INFO	geckodriver 0.19.0
+1507034931112	geckodriver	INFO	Listening on 127.0.0.1:42433
+1507034932223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.z2jqZlgzzbIG"
+1507034932768	Marionette	INFO	Enabled via --marionette
+1507034933970	Marionette	INFO	Listening on port 37763
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507034934087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507034934151	Marionette	DEBUG	loaded listener.js
+1507034934191	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507034934274	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507034934274	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507034934417	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507034935494	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507035005627	geckodriver	INFO	geckodriver 0.19.0
+1507035005630	geckodriver	INFO	Listening on 127.0.0.1:54591
+1507035006738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qaNr4eIIk1Ge"
+1507035007257	Marionette	INFO	Enabled via --marionette
+1507035008462	Marionette	INFO	Listening on port 39797
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507035008570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507035008619	Marionette	DEBUG	loaded listener.js
+1507035008657	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507035008738	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507035008738	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507035008842	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507035009966	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507035051394	geckodriver	INFO	geckodriver 0.19.0
+1507035051397	geckodriver	INFO	Listening on 127.0.0.1:40357
+1507035052512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WLLbWDIAtKcM"
+1507035053029	Marionette	INFO	Enabled via --marionette
+1507035054255	Marionette	INFO	Listening on port 44511
+1507035054384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507035054444	Marionette	DEBUG	loaded listener.js
+1507035054477	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507035054551	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507035054552	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507035054661	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507035055919	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507035212850	geckodriver	INFO	geckodriver 0.19.0
+1507035212853	geckodriver	INFO	Listening on 127.0.0.1:58933
+1507035213959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YVUrDh5sLd7x"
+1507035214482	Marionette	INFO	Enabled via --marionette
+1507035215771	Marionette	INFO	Listening on port 35237
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507035215886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507035215929	Marionette	DEBUG	loaded listener.js
+1507035215975	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507035216053	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507035216053	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507035216166	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507035217402	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507035455248	geckodriver	INFO	geckodriver 0.19.0
+1507035455251	geckodriver	INFO	Listening on 127.0.0.1:33413
+1507035456381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RpocFG3XIMgy"
+1507035456911	Marionette	INFO	Enabled via --marionette
+1507035458289	Marionette	INFO	Listening on port 41791
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507035458397	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507035458434	Marionette	DEBUG	loaded listener.js
+1507035458456	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507035458558	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507035458559	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507035458666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507035459724	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507035688103	geckodriver	INFO	geckodriver 0.19.0
+1507035688106	geckodriver	INFO	Listening on 127.0.0.1:45635
+1507035689216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JRWghEKCxFWP"
+1507035689720	Marionette	INFO	Enabled via --marionette
+1507035690972	Marionette	INFO	Listening on port 40103
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507035691087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507035691135	Marionette	DEBUG	loaded listener.js
+1507035691175	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507035691284	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507035691284	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507035691430	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507035698282	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507035698660	Marionette	DEBUG	Received DOM event "beforeunload" for "http://nitrowriters.com/form/form.html"
+1507035701199	Marionette	DEBUG	Received DOM event "pagehide" for "http://nitrowriters.com/form/form.html"
+1507035701200	Marionette	DEBUG	Received DOM event "unload" for "http://nitrowriters.com/form/form.html"
+1507035702373	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035702499	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035702530	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035702692	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035702694	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035702703	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035702704	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035702704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035702706	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035702707	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035702708	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035702819	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ads.pubmatic.com/AdServer/js/user_sync.html?r=10108&p=46338&predirect=https%3A%2F%2Fads.servebom.com%2Fpartner%3Fcd%3D10108%26svc%3Dus%26id%3D5%26uid%3D"
+1507035702933	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1507035702933	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1507035702933	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1507035702933	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1507035702968	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035702983	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035702983	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035702986	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035702990	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035702992	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035702995	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035702998	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035703000	Marionette	DEBUG	Received DOM event "pageshow" for "https://ads.servebom.com/partner?svc=us&id=17&cb=4929&uid=YJMO6VzlATPk&ev=1&pid=558527&cb=4929"
+1507035703017	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://b.company-target.com/ect.html"
+1507035703020	Marionette	DEBUG	Received DOM event "pageshow" for "https://b.company-target.com/ect.html"
+1507035703024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssum-sec.casalemedia.com/usermatch?r=5377&s=181869&cb=https:%2F%2Fads.servebom.com%2Fpartner%3Fcb%3D5377%26svc%3Dus%26id%3D2%26uid%3D&C=1"
+1507035703100	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1507035703100	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1507035703137	Marionette	DEBUG	Received DOM event "pageshow" for "https://ads.servebom.com/partner?cb=2880&svc=us&id=41&uid=763759d3-7e4a-4800-99a7-4ff00c5f90fe"
+1507035703139	Marionette	DEBUG	Received DOM event "pageshow" for "https://ads.servebom.com/partner?cd=266&svc=us&id=31&uid=34479226-e058-49c2-af59-806673f3f5e6"
+1507035703201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035703206	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035703281	Marionette	DEBUG	Received DOM event "pageshow" for "https://ads.servebom.com/partner?cb=9449&svc=us&id=23,25,26,29,33&uid=831717784321716375"
+1507035703381	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tmn-d.openx.net/w/1.0/afr?cc=1&auid=538535676&cb=2211"
+1507035703394	Marionette	DEBUG	Received DOM event "pageshow" for "https://ads.servebom.com/partner?cb=3954&svc=us&id=14&uid=14895031765306637930"
+1507035703402	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035703404	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035703427	Marionette	DEBUG	Received DOM event "pageshow" for "https://ads.servebom.com/partner?cb=2342&svc=us&id=24&uid=6a2bafb0e96f927435e9fbe2"
+1507035703428	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ads.pubmatic.com/AdServer/js/showad.js#PIX&kdntuid=1&SPug=true&p=46338&predirect=https%3A%2F%2Fads.servebom.com%2Fpartner%3Fcd%3D10108%26svc%3Dus%26id%3D5%26uid%3D&it=0&np=0"
+1507035703428	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035703432	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035703432	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tap-secure.rubiconproject.com/partner/scripts/rubicon/emily.html?rtb_ext=1&geo=na&co=us"
+1507035703434	Marionette	DEBUG	Received DOM event "pageshow" for "https://tap-secure.rubiconproject.com/partner/scripts/rubicon/emily.html?rtb_ext=1&geo=na&co=us"
+1507035703439	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035703443	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035703612	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1507035703620	Marionette	DEBUG	Received DOM event "pageshow" for "https://ads.servebom.com/partner?cd=10108&svc=us&id=5&uid=A18270B7-FFA1-43CF-B83A-44FBFED7764D"
+1507035703642	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1507035703651	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1507035703663	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1507035703747	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+1507035703753	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1507035703804	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://us-u.openx.net/w/1.0/pd?plm=10&ph=25af9286-f23b-4b02-abcd-f2ee3b564dab"
+1507035703956	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035703961	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035703962	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/html/r20170927/r20170110/zrt_lookup.html#"
+1507035703965	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/html/r20170927/r20170110/zrt_lookup.html#"
+1507035704000	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035704003	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035704033	Marionette	DEBUG	Received DOM event "pageshow" for "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTIxNzcmdGw9MTI5NjAw&piggybackCookie=CAESEHCKXVBDrAiEyST1aQAc6iM&google_cver=1"
+1507035704168	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1507035704173	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1507035704174	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1507035704189	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html?n=1"
+1507035704191	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1507035704194	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1507035704197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html?n=1"
+1507035704241	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMzNDImdGw9MTI5NjAw&piggybackCookie=u_296c72ab-c52d-4ebf-a77c-70c7d96c085a"
+1507035704246	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1507035704249	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1507035704251	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1507035704252	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1507035704259	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1507035704262	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NDkmdGw9MTI5NjAw&piggybackCookie=c70d6d27-4795-400f-a30c-dbae5565fedc"
+1507035704311	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9kY2xrLW1hdGNoLmRvdG9taS5jb20vZG91YmxlY2xpY2svbWF0Y2g_Z29vZ2xlX2dpZD1DQUVTRUltdFRWVG1zQUdQazZGN2xxaFloVWcmZ29vZ2xlX2N2ZXI9MSZnb29nbGVfcHVzaD1BSE5GMTNKYmpQbVVLQ2JNM3JvcUczSGk5aG1pdzhuRTd4Ti1Nb2ZjT19GUUNB,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzSkpqUEl6VU40VE1Fbm9SaTdlOTJiM0FxZ3A2MTdH"
+1507035704317	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9zeW5jLmV4dGVuZC50di9yLmdpZj9leGNoYW5nZT1nb29nbGVhZHgmZ29vZ2xlX2dpZD1DQUVTRUFodnZPTU9vaVd6MjlZZmVsNlg2cGcmZ29vZ2xlX2N2ZXI9MSZnb29nbGVfcHVzaD1BSE5GMTNJQWF2a2h6SnphYzM2WEF1bG1BZVNWWkl4Ml9mTzVLUno4RlNqblZB,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzTDY0TnNfcUlLbkh5UlpmN21aOUN1YzVkV3VueWlN"
+1507035704621	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9454946816537646&output=html&h=90&slotname=3538590896&adk=906693671&adf=2751417938&w=728&format=728x90&url=https%3A%2F%2Fwww.sitepoint.com%2F&ea=0&flash=0&wgl=1&dt=1507035703585&bpp=15&bdt=232&fdt=30&idt=274&shv=r20170927&cbv=r20170110&saldr=aa&correlator=8634541742909&frm=24&ga_vid=961256466.1507035704&ga_sid=1507035704&ga_hid=581923221&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=-300&u_his=2&u_java=0&u_h=720&u_w=1280&u_ah=699&u_aw=1223&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=728&ish=90&ifk=2008206672&eid=389613004&oid=3&nmo=1&zm=1.67&rx=0&eae=2&brdim=%2C%2C57%2C21%2C1223%2C21%2C1223%2C699%2C728%2C90&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=313"
+1507035704627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9454946816537646&output=html&h=600&slotname=5015324098&adk=3677630892&adf=2751417939&w=300&format=300x600&url=https%3A%2F%2Fwww.sitepoint.com%2F&ea=0&flash=0&wgl=1&dt=1507035703625&bpp=12&bdt=270&fdt=19&idt=295&shv=r20170927&cbv=r20170110&saldr=aa&correlator=3095852987801&frm=24&ga_vid=784672215.1507035704&ga_sid=1507035704&ga_hid=1984289976&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=-300&u_his=2&u_java=0&u_h=720&u_w=1280&u_ah=699&u_aw=1223&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=300&ish=600&ifk=1250969331&eid=10583695%2C20040062%2C41242211&oid=3&nmo=1&zm=4.07&rx=0&eae=2&brdim=%2C%2C57%2C21%2C1223%2C21%2C1223%2C699%2C300%2C600&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=327"
+1507035704637	Marionette	DEBUG	Received DOM event "pageshow" for "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQ2MSZ0bD0xNTc2ODAwAAADMjRaJjMrYgZ4-6A5AAAAAAA"
+1507035704666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.sitepoint.com/"
+1507035704668	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035704680	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://image4.pubmatic.com/AdServer/SPug?partnerID=156020&xid=3WdOKOG9-Od4Bp6GTKw&"
+1507035704682	Marionette	DEBUG	Received DOM event "pageshow" for "https://image4.pubmatic.com/AdServer/SPug?partnerID=156020&xid=3WdOKOG9-Od4Bp6GTKw&"
+1507035704689	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1507035704692	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1507035704704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9zc3VtLXNlYy5jYXNhbGVtZWRpYS5jb20vdXNlcm1hdGNocmVkaXI_cz0xODQwMjMmY2I9aHR0cHMlM0ElMkYlMkZjbS5nLmRvdWJsZWNsaWNrLm5ldCUyRnBpeGVsJTNGZ29vZ2xlX25pZCUzRGluZGV4JTI2Z29vZ2xlX2htJTNEJmdvb2dsZV9naWQ9Q0FFU0VFbUhzeXFrS0pJb2ktZlR3bWpQZHpvJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QUhORjEzTEw5U3V6Mmt1ZDNfZXNvdnpVQktnX0R3SjgwYWdfU2x0OGN2djBIZw==,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzSnZwUlNDX3hsdTYxNVUxbWtjSnNkZXl2djNqVklx"
+1507035704705	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1507035704707	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+1507035704710	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9zc3VtLXNlYy5jYXNhbGVtZWRpYS5jb20vdXNlcm1hdGNocmVkaXI_cz0xODQwMjMmY2I9aHR0cHMlM0ElMkYlMkZjbS5nLmRvdWJsZWNsaWNrLm5ldCUyRnBpeGVsJTNGZ29vZ2xlX25pZCUzRGluZGV4JTI2Z29vZ2xlX2htJTNEJmdvb2dsZV9naWQ9Q0FFU0VFbUhzeXFrS0pJb2ktZlR3bWpQZHpvJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QUhORjEzSU03czBsS2VwT1p0Zy1QNXRzbkFPSkhQRkxXZkFUeE1ZSmtRVWZ6UQ==,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzTE9YY0gtRmVIS1djek9ZOFdHZGpRZkw4MWM0azY4"
+1507035704732	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1507035704738	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1507035704742	Marionette	DEBUG	Received DOM event "pageshow" for "https://p4-dmttfmhiiwl2u-ep7r7vp6ctztza62-if-v6exp3-v4.metric.gstatic.com/v6exp3/redir.html"
+1507035704745	Marionette	DEBUG	Received DOM event "pageshow" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9kY2xrLW1hdGNoLmRvdG9taS5jb20vZG91YmxlY2xpY2svbWF0Y2g_Z29vZ2xlX2dpZD1DQUVTRUltdFRWVG1zQUdQazZGN2xxaFloVWcmZ29vZ2xlX2N2ZXI9MSZnb29nbGVfcHVzaD1BSE5GMTNKYmpQbVVLQ2JNM3JvcUczSGk5aG1pdzhuRTd4Ti1Nb2ZjT19GUUNB,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzSkpqUEl6VU40VE1Fbm9SaTdlOTJiM0FxZ3A2MTdH"
+1507035704756	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html?n=1"
+1507035704766	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035704770	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://p4-dmttfmhiiwl2u-ep7r7vp6ctztza62-if-v6exp3-v4.metric.gstatic.com/v6exp3/redir.html"
+1507035704836	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssum-sec.casalemedia.com/usermatch?r=5377&s=181869&cb=https:%2F%2Fads.servebom.com%2Fpartner%3Fcb%3D5377%26svc%3Dus%26id%3D2%26uid%3D&C=1"
+1507035704842	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1507035704845	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1507035704857	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://p4-dmttfmhiiwl2u-ep7r7vp6ctztza62-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html"
+1507035704860	Marionette	DEBUG	Received DOM event "pageshow" for "https://p4-dmttfmhiiwl2u-ep7r7vp6ctztza62-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html"
+1507035704981	Marionette	DEBUG	Received DOM event "pageshow" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9zc3VtLXNlYy5jYXNhbGVtZWRpYS5jb20vdXNlcm1hdGNocmVkaXI_cz0xODQwMjMmY2I9aHR0cHMlM0ElMkYlMkZjbS5nLmRvdWJsZWNsaWNrLm5ldCUyRnBpeGVsJTNGZ29vZ2xlX25pZCUzRGluZGV4JTI2Z29vZ2xlX2htJTNEJmdvb2dsZV9naWQ9Q0FFU0VFbUhzeXFrS0pJb2ktZlR3bWpQZHpvJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QUhORjEzTEw5U3V6Mmt1ZDNfZXNvdnpVQktnX0R3SjgwYWdfU2x0OGN2djBIZw==,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzSnZwUlNDX3hsdTYxNVUxbWtjSnNkZXl2djNqVklx"
+1507035704985	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1507035704987	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1507035704995	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9454946816537646&output=html&h=90&slotname=3538590896&adk=906693671&adf=2751417938&w=728&format=728x90&url=https%3A%2F%2Fwww.sitepoint.com%2F&ea=0&flash=0&wgl=1&dt=1507035703585&bpp=15&bdt=232&fdt=30&idt=274&shv=r20170927&cbv=r20170110&saldr=aa&correlator=8634541742909&frm=24&ga_vid=961256466.1507035704&ga_sid=1507035704&ga_hid=581923221&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=-300&u_his=2&u_java=0&u_h=720&u_w=1280&u_ah=699&u_aw=1223&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=728&ish=90&ifk=2008206672&eid=389613004&oid=3&nmo=1&zm=1.67&rx=0&eae=2&brdim=%2C%2C57%2C21%2C1223%2C21%2C1223%2C699%2C728%2C90&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=313"
+1507035705003	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9454946816537646&output=html&h=90&slotname=3538590896&adk=906693671&adf=2751417938&w=728&format=728x90&url=https%3A%2F%2Fwww.sitepoint.com%2F&ea=0&flash=0&wgl=1&dt=1507035703585&bpp=15&bdt=232&fdt=30&idt=274&shv=r20170927&cbv=r20170110&saldr=aa&correlator=8634541742909&frm=24&ga_vid=961256466.1507035704&ga_sid=1507035704&ga_hid=581923221&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=-300&u_his=2&u_java=0&u_h=720&u_w=1280&u_ah=699&u_aw=1223&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=728&ish=90&ifk=2008206672&eid=389613004&oid=3&nmo=1&zm=1.67&rx=0&eae=2&brdim=%2C%2C57%2C21%2C1223%2C21%2C1223%2C699%2C728%2C90&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=313"
+1507035705005	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1507035705013	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1507035705018	Marionette	DEBUG	Received DOM event "pageshow" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9zeW5jLmV4dGVuZC50di9yLmdpZj9leGNoYW5nZT1nb29nbGVhZHgmZ29vZ2xlX2dpZD1DQUVTRUFodnZPTU9vaVd6MjlZZmVsNlg2cGcmZ29vZ2xlX2N2ZXI9MSZnb29nbGVfcHVzaD1BSE5GMTNJQWF2a2h6SnphYzM2WEF1bG1BZVNWWkl4Ml9mTzVLUno4RlNqblZB,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzTDY0TnNfcUlLbkh5UlpmN21aOUN1YzVkV3VueWlN"
+1507035705024	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html?n=1"
+1507035705029	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507035705032	Marionette	DEBUG	Received DOM event "pageshow" for "https://pagead2.googlesyndication.com/pagead/s/cookie_push.html#aHR0cHM6Ly9zc3VtLXNlYy5jYXNhbGVtZWRpYS5jb20vdXNlcm1hdGNocmVkaXI_cz0xODQwMjMmY2I9aHR0cHMlM0ElMkYlMkZjbS5nLmRvdWJsZWNsaWNrLm5ldCUyRnBpeGVsJTNGZ29vZ2xlX25pZCUzRGluZGV4JTI2Z29vZ2xlX2htJTNEJmdvb2dsZV9naWQ9Q0FFU0VFbUhzeXFrS0pJb2ktZlR3bWpQZHpvJmdvb2dsZV9jdmVyPTEmZ29vZ2xlX3B1c2g9QUhORjEzSU03czBsS2VwT1p0Zy1QNXRzbkFPSkhQRkxXZkFUeE1ZSmtRVWZ6UQ==,aHR0cHM6Ly9jbS5nLmRvdWJsZWNsaWNrLm5ldC9waXhlbC9hdHRyP2Q9QUhORjEzTE9YY0gtRmVIS1djek9ZOFdHZGpRZkw4MWM0azY4"
+1507035705032	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1507035705034	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/drt/si"
+1507035705042	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9454946816537646&output=html&h=600&slotname=5015324098&adk=3677630892&adf=2751417939&w=300&format=300x600&url=https%3A%2F%2Fwww.sitepoint.com%2F&ea=0&flash=0&wgl=1&dt=1507035703625&bpp=12&bdt=270&fdt=19&idt=295&shv=r20170927&cbv=r20170110&saldr=aa&correlator=3095852987801&frm=24&ga_vid=784672215.1507035704&ga_sid=1507035704&ga_hid=1984289976&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=-300&u_his=2&u_java=0&u_h=720&u_w=1280&u_ah=699&u_aw=1223&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=300&ish=600&ifk=1250969331&eid=10583695%2C20040062%2C41242211&oid=3&nmo=1&zm=4.07&rx=0&eae=2&brdim=%2C%2C57%2C21%2C1223%2C21%2C1223%2C699%2C300%2C600&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=327"
+1507035705048	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9454946816537646&output=html&h=600&slotname=5015324098&adk=3677630892&adf=2751417939&w=300&format=300x600&url=https%3A%2F%2Fwww.sitepoint.com%2F&ea=0&flash=0&wgl=1&dt=1507035703625&bpp=12&bdt=270&fdt=19&idt=295&shv=r20170927&cbv=r20170110&saldr=aa&correlator=3095852987801&frm=24&ga_vid=784672215.1507035704&ga_sid=1507035704&ga_hid=1984289976&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=-300&u_his=2&u_java=0&u_h=720&u_w=1280&u_ah=699&u_aw=1223&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=300&ish=600&ifk=1250969331&eid=10583695%2C20040062%2C41242211&oid=3&nmo=1&zm=4.07&rx=0&eae=2&brdim=%2C%2C57%2C21%2C1223%2C21%2C1223%2C699%2C300%2C600&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=327"
+1507035705050	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1507035705054	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/safeframe/1-0-13/html/container.html"
+1507035705061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9454946816537646&output=html&h=90&slotname=3538590896&adk=906693671&adf=2751417938&w=728&format=728x90&url=https%3A%2F%2Fwww.sitepoint.com%2F&ea=0&flash=0&wgl=1&dt=1507035703585&bpp=15&bdt=232&fdt=30&idt=274&shv=r20170927&cbv=r20170110&saldr=aa&correlator=8634541742909&frm=24&ga_vid=961256466.1507035704&ga_sid=1507035704&ga_hid=581923221&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=-300&u_his=2&u_java=0&u_h=720&u_w=1280&u_ah=699&u_aw=1223&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=728&ish=90&ifk=2008206672&eid=389613004&oid=3&nmo=1&zm=1.67&rx=0&eae=2&brdim=%2C%2C57%2C21%2C1223%2C21%2C1223%2C699%2C728%2C90&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=313"
+1507035705063	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9454946816537646&output=html&h=90&slotname=3538590896&adk=906693671&adf=2751417938&w=728&format=728x90&url=https%3A%2F%2Fwww.sitepoint.com%2F&ea=0&flash=0&wgl=1&dt=1507035703585&bpp=15&bdt=232&fdt=30&idt=274&shv=r20170927&cbv=r20170110&saldr=aa&correlator=8634541742909&frm=24&ga_vid=961256466.1507035704&ga_sid=1507035704&ga_hid=581923221&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=-300&u_his=2&u_java=0&u_h=720&u_w=1280&u_ah=699&u_aw=1223&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=728&ish=90&ifk=2008206672&eid=389613004&oid=3&nmo=1&zm=1.67&rx=0&eae=2&brdim=%2C%2C57%2C21%2C1223%2C21%2C1223%2C699%2C728%2C90&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=313"
+1507035705078	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9454946816537646&output=html&h=600&slotname=5015324098&adk=3677630892&adf=2751417939&w=300&format=300x600&url=https%3A%2F%2Fwww.sitepoint.com%2F&ea=0&flash=0&wgl=1&dt=1507035703625&bpp=12&bdt=270&fdt=19&idt=295&shv=r20170927&cbv=r20170110&saldr=aa&correlator=3095852987801&frm=24&ga_vid=784672215.1507035704&ga_sid=1507035704&ga_hid=1984289976&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=-300&u_his=2&u_java=0&u_h=720&u_w=1280&u_ah=699&u_aw=1223&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=300&ish=600&ifk=1250969331&eid=10583695%2C20040062%2C41242211&oid=3&nmo=1&zm=4.07&rx=0&eae=2&brdim=%2C%2C57%2C21%2C1223%2C21%2C1223%2C699%2C300%2C600&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=327"
+1507035705080	Marionette	DEBUG	Received DOM event "pageshow" for "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9454946816537646&output=html&h=600&slotname=5015324098&adk=3677630892&adf=2751417939&w=300&format=300x600&url=https%3A%2F%2Fwww.sitepoint.com%2F&ea=0&flash=0&wgl=1&dt=1507035703625&bpp=12&bdt=270&fdt=19&idt=295&shv=r20170927&cbv=r20170110&saldr=aa&correlator=3095852987801&frm=24&ga_vid=784672215.1507035704&ga_sid=1507035704&ga_hid=1984289976&ga_fc=0&pv=2&icsg=2&nhd=2&dssz=2&mdo=0&mso=0&u_tz=-300&u_his=2&u_java=0&u_h=720&u_w=1280&u_ah=699&u_aw=1223&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=0&biw=-12245933&bih=-12245933&isw=300&ish=600&ifk=1250969331&eid=10583695%2C20040062%2C41242211&oid=3&nmo=1&zm=4.07&rx=0&eae=2&brdim=%2C%2C57%2C21%2C1223%2C21%2C1223%2C699%2C300%2C600&vis=1&rsz=%7C%7CceE%7C&abl=NS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&dtd=327"
+1507035705108	Marionette	DEBUG	Received DOM event "pageshow" for "https://ads.pubmatic.com/AdServer/js/showad.js#PIX&kdntuid=1&SPug=true&p=46338&predirect=https%3A%2F%2Fads.servebom.com%2Fpartner%3Fcd%3D10108%26svc%3Dus%26id%3D5%26uid%3D&it=0&np=0"
+1507035705110	Marionette	DEBUG	Received DOM event "pageshow" for "https://ads.pubmatic.com/AdServer/js/user_sync.html?r=10108&p=46338&predirect=https%3A%2F%2Fads.servebom.com%2Fpartner%3Fcd%3D10108%26svc%3Dus%26id%3D5%26uid%3D"
+1507035705267	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483806"
+1507035705268	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483808"
+1507035705435	Marionette	DEBUG	Received DOM event "pageshow" for "https://us-u.openx.net/w/1.0/pd?plm=10&ph=25af9286-f23b-4b02-abcd-f2ee3b564dab"
+1507035705437	Marionette	DEBUG	Received DOM event "pageshow" for "https://tmn-d.openx.net/w/1.0/afr?cc=1&auid=538535676&cb=2211"
+1507035705650	Marionette	DEBUG	Received DOM event "pageshow" for "https://ads.servebom.com/partner?cb=2057&svc=us&id=20&uid=uid%3D7FD3340ED87A42A68079DE0B682458A0"
+1507035705660	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.sitepoint.com/"
+1507036000158	geckodriver	INFO	geckodriver 0.19.0
+1507036000161	geckodriver	INFO	Listening on 127.0.0.1:40317
+1507036001274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hxhTra7bMIIe"
+1507036001805	Marionette	INFO	Enabled via --marionette
+1507036003058	Marionette	INFO	Listening on port 43367
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507036003162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507036003213	Marionette	DEBUG	loaded listener.js
+1507036003253	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507036003487	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507036003488	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507036003738	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507036005330	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507036067505	geckodriver	INFO	geckodriver 0.19.0
+1507036067509	geckodriver	INFO	Listening on 127.0.0.1:57845
+1507036068619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ArrbOxtFj2KT"
+1507036069122	Marionette	INFO	Enabled via --marionette
+1507036070449	Marionette	INFO	Listening on port 42405
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507036070534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507036070575	Marionette	DEBUG	loaded listener.js
+1507036070597	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507036070674	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507036070675	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507036070783	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507036071896	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507036241650	geckodriver	INFO	geckodriver 0.19.0
+1507036241653	geckodriver	INFO	Listening on 127.0.0.1:52269
+1507036242762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sS2uPZwdqlp4"
+1507036243277	Marionette	INFO	Enabled via --marionette
+1507036244644	Marionette	INFO	Listening on port 33333
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507036244676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507036244710	Marionette	DEBUG	loaded listener.js
+1507036244731	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507036244970	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507036244970	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507036245217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507036246821	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507036480846	geckodriver	INFO	geckodriver 0.19.0
+1507036480849	geckodriver	INFO	Listening on 127.0.0.1:58227
+1507036481956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5JKweLWXqleK"
+1507036482471	Marionette	INFO	Enabled via --marionette
+1507036483759	Marionette	INFO	Listening on port 42105
+1507036483775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507036483822	Marionette	DEBUG	loaded listener.js
+1507036483872	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507036483977	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507036483977	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507036484390	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507036485997	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507036741414	geckodriver	INFO	geckodriver 0.19.0
+1507036741417	geckodriver	INFO	Listening on 127.0.0.1:39035
+1507036742530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.z3e7gVI54Jf5"
+1507036743067	Marionette	INFO	Enabled via --marionette
+1507036744249	Marionette	INFO	Listening on port 34263
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507036744372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507036744422	Marionette	DEBUG	loaded listener.js
+1507036744461	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507036744581	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507036744581	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507036744691	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507036746426	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507037081274	Marionette	DEBUG	loaded listener.js
+1507037517308	geckodriver	INFO	geckodriver 0.19.0
+1507037517311	geckodriver	INFO	Listening on 127.0.0.1:43413
+1507037518419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.U7OP7XoI86SI"
+1507037518945	Marionette	INFO	Enabled via --marionette
+1507037520234	Marionette	INFO	Listening on port 35933
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507037520346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507037520392	Marionette	DEBUG	loaded listener.js
+1507037520430	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507037520523	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507037520524	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507037520651	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507037521758	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507037662190	geckodriver	INFO	geckodriver 0.19.0
+1507037662193	geckodriver	INFO	Listening on 127.0.0.1:36707
+1507037663323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TzyCrItv4su1"
+1507037663863	Marionette	INFO	Enabled via --marionette
+1507037665230	Marionette	INFO	Listening on port 42219
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507037665345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507037665380	Marionette	DEBUG	loaded listener.js
+1507037665402	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507037665486	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507037665486	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507037665627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507037666687	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507037733082	geckodriver	INFO	geckodriver 0.19.0
+1507037733084	geckodriver	INFO	Listening on 127.0.0.1:34423
+1507037734198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ab2fcxl3VevT"
+1507037734720	Marionette	INFO	Enabled via --marionette
+1507037736063	Marionette	INFO	Listening on port 32919
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507037736112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507037736147	Marionette	DEBUG	loaded listener.js
+1507037736174	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507037736263	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507037736263	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507037736380	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507037737446	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507038044516	geckodriver	INFO	geckodriver 0.19.0
+1507038044519	geckodriver	INFO	Listening on 127.0.0.1:46899
+1507038045628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DyO8JV3bmSq0"
+1507038046141	Marionette	INFO	Enabled via --marionette
+1507038047482	Marionette	INFO	Listening on port 46833
+1507038047545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507038047585	Marionette	DEBUG	loaded listener.js
+1507038047610	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507038047846	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507038047847	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507038047970	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507038049132	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507038120718	geckodriver	INFO	geckodriver 0.19.0
+1507038120721	geckodriver	INFO	Listening on 127.0.0.1:35357
+1507038121834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.riJdmghMWUcJ"
+1507038122372	Marionette	INFO	Enabled via --marionette
+1507038123706	Marionette	INFO	Listening on port 37185
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507038123758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507038123803	Marionette	DEBUG	loaded listener.js
+1507038123828	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507038123918	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507038123918	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507038124033	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507038125157	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507038161431	geckodriver	INFO	geckodriver 0.19.0
+1507038161434	geckodriver	INFO	Listening on 127.0.0.1:48139
+1507038162550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zkNbr9hFQtNf"
+1507038163052	Marionette	INFO	Enabled via --marionette
+1507038164455	Marionette	INFO	Listening on port 44543
+1507038164466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507038164503	Marionette	DEBUG	loaded listener.js
+1507038164529	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507038164915	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507038164915	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507038165163	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507038166582	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507038245205	geckodriver	INFO	geckodriver 0.19.0
+1507038245208	geckodriver	INFO	Listening on 127.0.0.1:49009
+1507038246321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qAcqEEqP9i8a"
+1507038246845	Marionette	INFO	Enabled via --marionette
+1507038248250	Marionette	INFO	Listening on port 36359
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507038248337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507038248376	Marionette	DEBUG	loaded listener.js
+1507038248412	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507038248504	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507038248505	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507038248616	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507038249870	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507038353336	geckodriver	INFO	geckodriver 0.19.0
+1507038353339	geckodriver	INFO	Listening on 127.0.0.1:42565
+1507038354446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZvMGNrdaHGFO"
+1507038354978	Marionette	INFO	Enabled via --marionette
+1507038356217	Marionette	INFO	Listening on port 39777
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507038356320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507038356371	Marionette	DEBUG	loaded listener.js
+1507038356416	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507038356511	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507038356511	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507038356633	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507038357688	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+[Child 10822] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1507038361309	geckodriver	INFO	geckodriver 0.19.0
+1507038361312	geckodriver	INFO	Listening on 127.0.0.1:52173
+1507038362423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tYXgoEqdtb3Y"
+1507038362960	Marionette	INFO	Enabled via --marionette
+1507038364211	Marionette	INFO	Listening on port 40675
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507038364321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507038364374	Marionette	DEBUG	loaded listener.js
+1507038364416	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507038364506	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507038364507	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507038364656	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507038365726	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507038391147	geckodriver	INFO	geckodriver 0.19.0
+1507038391150	geckodriver	INFO	Listening on 127.0.0.1:47297
+1507038392264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.C50woM8tzoSv"
+1507038392796	Marionette	INFO	Enabled via --marionette
+1507038394051	Marionette	INFO	Listening on port 45777
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507038394168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507038394226	Marionette	DEBUG	loaded listener.js
+1507038394267	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507038394352	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507038394352	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507038394461	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507038395681	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507038553975	geckodriver	INFO	geckodriver 0.19.0
+1507038553978	geckodriver	INFO	Listening on 127.0.0.1:51333
+1507038555091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.P91NR4canTnv"
+1507038555612	Marionette	INFO	Enabled via --marionette
+1507038556802	Marionette	INFO	Listening on port 34793
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507038556907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507038556956	Marionette	DEBUG	loaded listener.js
+1507038556995	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507038557125	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507038557126	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507038557235	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507038558411	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507038624991	geckodriver	INFO	geckodriver 0.19.0
+1507038624994	geckodriver	INFO	Listening on 127.0.0.1:39065
+1507038626097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8vSXdcFjbIYc"
+1507038626594	Marionette	INFO	Enabled via --marionette
+1507038627826	Marionette	INFO	Listening on port 38183
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507038627931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507038627972	Marionette	DEBUG	loaded listener.js
+1507038628010	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507038628130	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507038628131	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507038628245	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507038629438	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507038699904	geckodriver	INFO	geckodriver 0.19.0
+1507038699907	geckodriver	INFO	Listening on 127.0.0.1:57927
+1507038701015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AecJywEZiWqw"
+1507038701539	Marionette	INFO	Enabled via --marionette
+1507038702736	Marionette	INFO	Listening on port 32787
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507038702854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507038702912	Marionette	DEBUG	loaded listener.js
+1507038702965	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507038703055	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507038703056	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507038703174	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507038704331	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507038740152	geckodriver	INFO	geckodriver 0.19.0
+1507038740155	geckodriver	INFO	Listening on 127.0.0.1:33393
+1507038741264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HSNEvHFCqXt2"
+1507038741788	Marionette	INFO	Enabled via --marionette
+1507038743000	Marionette	INFO	Listening on port 33385
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507038743104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507038743150	Marionette	DEBUG	loaded listener.js
+1507038743198	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507038743306	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507038743306	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507038743440	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507038744646	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507038841149	geckodriver	INFO	geckodriver 0.19.0
+1507038841152	geckodriver	INFO	Listening on 127.0.0.1:57715
+1507038842264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.d3dow2YH5A9m"
+1507038842779	Marionette	INFO	Enabled via --marionette
+1507038844149	Marionette	INFO	Listening on port 38181
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507038844181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507038844218	Marionette	DEBUG	loaded listener.js
+1507038844242	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507038844331	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507038844332	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507038844490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507038845510	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507038976847	geckodriver	INFO	geckodriver 0.19.0
+1507038976850	geckodriver	INFO	Listening on 127.0.0.1:45053
+1507038977976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6kgIc8pZPBi8"
+1507038978485	Marionette	INFO	Enabled via --marionette
+1507038979797	Marionette	INFO	Listening on port 37181
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507038979897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507038979935	Marionette	DEBUG	loaded listener.js
+1507038979952	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507038980060	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507038980060	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507038980175	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507038981434	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507039129120	geckodriver	INFO	geckodriver 0.19.0
+1507039129123	geckodriver	INFO	Listening on 127.0.0.1:59377
+1507039130237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Bu3s4QbN5ioJ"
+1507039130755	Marionette	INFO	Enabled via --marionette
+1507039131963	Marionette	INFO	Listening on port 34095
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507039132090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507039132142	Marionette	DEBUG	loaded listener.js
+1507039132191	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507039132273	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507039132273	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507039132385	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507039133609	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507039336371	geckodriver	INFO	geckodriver 0.19.0
+1507039336374	geckodriver	INFO	Listening on 127.0.0.1:57119
+1507039337483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2la75RBuvw84"
+1507039337999	Marionette	INFO	Enabled via --marionette
+1507039339421	Marionette	INFO	Listening on port 45811
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507039339496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507039339533	Marionette	DEBUG	loaded listener.js
+1507039339559	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507039339656	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507039339656	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507039339775	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507039340941	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507039808619	geckodriver	INFO	geckodriver 0.19.0
+1507039808622	geckodriver	INFO	Listening on 127.0.0.1:51023
+1507039809731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.afVZzKYY9gc4"
+1507039810255	Marionette	INFO	Enabled via --marionette
+1507039811427	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1507039811439	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1507039811497	Marionette	INFO	Listening on port 43445
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507039811613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507039811658	Marionette	DEBUG	loaded listener.js
+1507039811695	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507039811710	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507039811713	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507039811713	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507039811744	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=dnsNotFound&u=http%3A//nitrowriters.com/form/form.html&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20find%20the%20server%20at%20nitrowriters.com."
+1507039937220	geckodriver	INFO	geckodriver 0.19.0
+1507039937223	geckodriver	INFO	Listening on 127.0.0.1:50037
+1507039938331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WhsRazgmZvby"
+1507039938850	Marionette	INFO	Enabled via --marionette
+1507039940289	Marionette	INFO	Listening on port 39789
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507039940348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507039940385	Marionette	DEBUG	loaded listener.js
+1507039940410	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507039940516	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507039940516	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507039940626	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507039941784	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507040138160	geckodriver	INFO	geckodriver 0.19.0
+1507040138164	geckodriver	INFO	Listening on 127.0.0.1:55389
+1507040139273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KNlSxZ9lyhqC"
+1507040139778	Marionette	INFO	Enabled via --marionette
+1507040141050	Marionette	INFO	Listening on port 45039
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507040141177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507040141228	Marionette	DEBUG	loaded listener.js
+1507040141263	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507040141358	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507040141359	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507040141464	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507040142530	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507040213273	geckodriver	INFO	geckodriver 0.19.0
+1507040213276	geckodriver	INFO	Listening on 127.0.0.1:39137
+1507040214390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xMgtoHrxzNNl"
+1507040214913	Marionette	INFO	Enabled via --marionette
+1507040216206	Marionette	INFO	Listening on port 36753
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507040216308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507040216346	Marionette	DEBUG	loaded listener.js
+1507040216365	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507040216479	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507040216479	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507040216590	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507040217767	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507040219946	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1507040391789	geckodriver	INFO	geckodriver 0.19.0
+1507040391792	geckodriver	INFO	Listening on 127.0.0.1:38347
+1507040392895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aZzeZPShmZwS"
+1507040393426	Marionette	INFO	Enabled via --marionette
+1507040394650	Marionette	INFO	Listening on port 37015
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507040394758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507040394809	Marionette	DEBUG	loaded listener.js
+1507040394844	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507040394943	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507040394943	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507040395057	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507040396344	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
+1507040494049	geckodriver	INFO	geckodriver 0.19.0
+1507040494052	geckodriver	INFO	Listening on 127.0.0.1:53467
+1507040495155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IAqBNEbCr9AT"
+1507040495661	Marionette	INFO	Enabled via --marionette
+1507040496981	Marionette	INFO	Listening on port 40083
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507040497072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507040497110	Marionette	DEBUG	loaded listener.js
+1507040497132	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507040497230	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507040497231	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507040497340	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nitrowriters.com/form/form.html"
+1507040498513	Marionette	DEBUG	Received DOM event "pageshow" for "http://nitrowriters.com/form/form.html"
